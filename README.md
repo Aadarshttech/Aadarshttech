@@ -60,10 +60,3 @@ Whether it's training custom speech-to-text models to drive accessibility or dev
 *Published at CHiPSAL 2026 Workshop · LREC 2026 · Mallorca, Spain*  
 Developed a reward-guided fine-tuning framework for Whisper utilizing a Random Forest model to filter noisy samples from a 70+ hour dataset, achieving an 11–12% relative improvement in transcription accuracy.
 
-<br/>
-
-### 🚀 Projects
-
-**[Anti Portfolio](https://github.com/Aadarshttech/Anti_portpolio)**  
-A modern, high-performance portfolio website built with **Next.js** and **Tailwind CSS**. It incorporates predictive machine learning models seamlessly integrated into the front-end architecture.
-
