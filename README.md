@@ -54,19 +54,16 @@ I also like to work with data, perform analysis of datasets, extract useful insi
 
 <br/>
 
-### 🚀 Featured Project
-**Anti Portfolio**  
-A modern, high-performance portfolio website built with **Next.js** and **Tailwind CSS**. It incorporates predictive machine learning models seamlessly integrated into the front-end architecture.
+### 📚 Publications & Research
+
+**[Reward-Guided Fine-Tuning of Whisper for Low-Resource Nepali ASR](https://github.com/Aadarshttech/nepali-english-codeswitched-whisper)**  
+*Published at CHiPSAL 2026 Workshop · LREC 2026 · Mallorca, Spain*  
+Developed a reward-guided fine-tuning framework for Whisper utilizing a Random Forest model to filter noisy samples from a 70+ hour dataset, achieving an 11–12% relative improvement in transcription accuracy.
 
 <br/>
 
-### GitHub Stats:
+### 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/Aadarshttech">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aadarshttech&show_icons=true&theme=radical&hide_border=true" alt="Aadarsh's GitHub stats" />
-  </a>
-  <a href="https://github.com/Aadarshttech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshttech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+**[Anti Portfolio](https://github.com/Aadarshttech/Anti_portpolio)**  
+A modern, high-performance portfolio website built with **Next.js** and **Tailwind CSS**. It incorporates predictive machine learning models seamlessly integrated into the front-end architecture.
+
