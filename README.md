@@ -32,7 +32,8 @@ I also like to work with data, perform analysis of datasets, extract useful insi
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]()
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange?style=for-the-badge)]()
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 
 **Web Development (Frontend & Backend):**  
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
@@ -53,6 +54,19 @@ I also like to work with data, perform analysis of datasets, extract useful insi
 
 <br/>
 
+### 🚀 Featured Project
+**Anti Portfolio**  
+A modern, high-performance portfolio website built with **Next.js** and **Tailwind CSS**. It incorporates predictive machine learning models seamlessly integrated into the front-end architecture.
+
+<br/>
+
 ### GitHub Stats:
 
-[![Aadarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarshttech&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/Aadarshttech">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aadarshttech&show_icons=true&theme=radical&hide_border=true" alt="Aadarsh's GitHub stats" />
+  </a>
+  <a href="https://github.com/Aadarshttech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarshttech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
