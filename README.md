@@ -1,14 +1,14 @@
 ### Hi there, I'm Aadarsh Pandit 👋
 
-Ask me about Machine Learning, NLP/ASR, Web Applications, and Data Analysis.
+I am an AI & Full-Stack Developer specializing in architecting end-to-end machine learning pipelines and scalable web applications. With a foundation in BTech Artificial Intelligence from Kathmandu University, my expertise lies in transforming complex data problems into production-ready software solutions.
 
-I am an AI & Web Development enthusiast studying BTech in AI @ Kathmandu University. I build projects in Machine Learning, NLP/ASR, Web Applications, and Data Analysis; I enjoy bringing concepts into real, functional systems. I have strong enthusiasm for using technology to solve problems, automate work, and create better user experiences. I especially love to work with AI models, training or fine-tuning datasets, and integrating intelligent systems into applications that can be used.
+My core focus bridges two domains:
+- **Artificial Intelligence:** Engineering and deploying predictive models, specializing in Natural Language Processing (NLP) and Automatic Speech Recognition (ASR). I have extensive experience in data curation, reward-guided model fine-tuning, and integrating intelligent systems.
+- **Full-Stack Engineering:** Architecting high-performance, responsive web applications using modern frameworks like Next.js and React, seamlessly connecting robust backends with polished, user-centric frontends.
 
-Along with AI, I do active work on Web Development, making responsive, scalable, and aesthetic web apps. I like working both on the frontend and the backend, and I also create dynamic websites using WordPress with custom themes and plugins.
+Whether it's conducting data analysis to drive business decisions or developing custom software systems from the ground up, I thrive at the intersection of data and design. 
 
-I also like to work with data, perform analysis of datasets, extract useful insights, use visualizations, and apply machine learning models to find patterns in the data or derive meaningful decisions from that data.
-
-*Always learning, building new projects, exploring AI + Web technologies. Open to Internship, Collaboration, Freelance Projects, Research, and Tech Opportunities.*
+*Always learning, building new projects, and exploring emerging technologies. Open to Contract Work, Freelance Projects, Research Collaborations, and Tech Opportunities.*
 
 <br/>
 
