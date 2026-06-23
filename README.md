@@ -1,12 +1,12 @@
 ### Hi there, I'm Aadarsh Pandit 👋
 
-I am an AI & Full-Stack Developer specializing in architecting end-to-end machine learning pipelines and scalable web applications. With a foundation in BTech Artificial Intelligence from Kathmandu University, my expertise lies in transforming complex data problems into production-ready software solutions.
+I am an AI & Full-Stack Developer whose core expertise is in **Natural Language Processing (NLP)**. With a foundation in BTech Artificial Intelligence from Kathmandu University, my focus lies in building intelligent linguistic systems and scalable web applications, transforming complex data problems into production-ready software solutions.
 
-My core focus bridges two domains:
-- **Artificial Intelligence:** Engineering and deploying predictive models, specializing in Natural Language Processing (NLP) and Automatic Speech Recognition (ASR). I have extensive experience in data curation, reward-guided model fine-tuning, and integrating intelligent systems.
+My work bridges two domains:
+- **Artificial Intelligence:** Engineering and deploying predictive NLP models and Automatic Speech Recognition (ASR) systems. I have extensive experience in data curation, reward-guided model fine-tuning for low-resource languages, and integrating Large Language Models (LLMs).
 - **Full-Stack Engineering:** Architecting high-performance, responsive web applications using modern frameworks like Next.js and React, seamlessly connecting robust backends with polished, user-centric frontends.
 
-Whether it's conducting data analysis to drive business decisions or developing custom software systems from the ground up, I thrive at the intersection of data and design. 
+Whether it's training custom speech-to-text models to drive accessibility or developing custom software architectures from the ground up, I thrive at the intersection of language, data, and design. 
 
 *Always learning, building new projects, and exploring emerging technologies. Open to Contract Work, Freelance Projects, Research Collaborations, and Tech Opportunities.*
 
