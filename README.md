@@ -1,9 +1,9 @@
 ### Hi, I'm Aadarsh Pandit 👋
 
-AI & Full-Stack Developer — I build end-to-end ML pipelines and production-grade web apps. BTech AI @ Kathmandu University.
+AI & Full-Stack Developer. I build end-to-end ML pipelines and production-grade web apps. BTech AI @ Kathmandu University.
 
 - 🎙️ **AI/ML**: NLP & ASR, low-resource language fine-tuning, reward-guided training, LLM integration, data curation
-- 💻 **Full-Stack**: Next.js, React, React Native — backend to polished frontend
+- 💻 **Full-Stack**: Next.js, React, React Native from backend to polished frontend
 - 🔬 **Currently researching**: Nepali-English code-switching speech recognition
 - 📄 Co-authored a Whisper fine-tuning paper for low-resource Nepali ASR, accepted (oral) at CHiPSAL 2026
 - 🌱 Always building, always shipping
