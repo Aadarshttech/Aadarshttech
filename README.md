@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aadarsh%20Pandit&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20NLP%20Enthusiast&descAlignY=58&descSize=17"/>
+# Hi, I'm Aadarsh Pandit 👋
+### AI Researcher · Full-Stack Engineer · NLP Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=650&lines=Building+end-to-end+ML+pipelines+%F0%9F%A7%A0;Published+NLP+researcher+%40+CHiPSAL+2026+%F0%9F%93%84;Full-Stack+Engineer+%7C+Next.js+%2B+FastAPI+%F0%9F%9A%80;Low-resource+ASR+%7C+Whisper+Fine-Tuning+%F0%9F%8E%99%EF%B8%8F;Always+building%2C+always+shipping+%E2%9A%A1)](https://github.com/Aadarshttech)
 
@@ -91,7 +92,5 @@ aadarsh = {
 <div align="center">
 
 *"The best researchers are those who can turn uncertainty into insight."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
